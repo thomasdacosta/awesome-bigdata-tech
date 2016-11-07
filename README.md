@@ -10,4 +10,4 @@ Brendan D. Gregg - http://www.brendangregg.com/index.html
 
 # Artigos
 
-https://dzone.com/articles/lambda-architecture-with-apache-spark?edition=238381&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=dd%202016-11-04
+Lambda Architecture with Apache Spark - https://dzone.com/articles/lambda-architecture-with-apache-spark?edition=238381&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=dd%202016-11-04
