@@ -16,7 +16,7 @@ Apache Kafka - http://kafka.apache.org<br>
 
 Ingestão de Dados
 ---------------
-Spring XD - http://projects.spring.io/spring-xd/
+Spring XD - http://projects.spring.io/spring-xd/<br>
 
 Banco de Dados
 ---------------
@@ -33,7 +33,8 @@ Lambda Architecture - http://lambda-architecture.net/<br>
 
 # 2 - Performance
 
-Brendan D. Gregg - http://www.brendangregg.com/index.html
+Brendan D. Gregg - http://www.brendangregg.com/index.html<br>
+Brendan D. Gregg (Slideshare) - http://www.slideshare.net/brendangregg<br>
 
 # 3 - Artigos
 
