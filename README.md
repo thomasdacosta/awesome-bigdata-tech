@@ -8,15 +8,15 @@ Dashboard
  
 Storage
 ---------------
-Apache ORC - https://orc.apache.org<br>
+* [Apache ORC](https://orc.apache.org)<br>
 
 Servidor de Fila
 ---------------
-Apache Kafka - http://kafka.apache.org<br>
+* [Apache Kafka](http://kafka.apache.org)<br>
 
 Ingestão de Dados
 ---------------
-Spring XD - http://projects.spring.io/spring-xd/<br>
+* [Spring XD](http://projects.spring.io/spring-xd/)<br>
 
 Banco de Dados
 ---------------
@@ -28,8 +28,8 @@ TitanDB - http://titan.thinkaurelius.com/<br>
 
 Arquitetura
 ---------------
-Kappa Architecture - http://milinda.pathirage.org/kappa-architecture.com/<br>
-Lambda Architecture - http://lambda-architecture.net/<br>
+* [Kappa Architecture](http://milinda.pathirage.org/kappa-architecture.com/)<br>
+* [Lambda Architecture](http://lambda-architecture.net/)<br>
 
 # 2 - Performance
 
