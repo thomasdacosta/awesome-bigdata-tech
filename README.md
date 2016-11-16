@@ -40,3 +40,6 @@ Arquitetura
 # 3 - Artigos
 
 * [Lambda Architecture with Apache Spark](https://dzone.com/articles/lambda-architecture-with-apache-spark?edition=238381&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=dd%202016-11-04)<br>
+* [5 Easy Ways to Crash Elasticsearch](https://dzone.com/articles/5-easy-ways-to-crash-elasticsearch)<br>
+* [Elasticsearch Fault Tolerance: Reindexing Need and Strategies - Part I](https://dzone.com/articles/elasticsearch-fault-tolerance-reindexing-need-and)<br>
+* [Elasticsearch Fault Tolerance: Reindexing Need and Strategies - Part II](https://dzone.com/articles/elasticsearch-fault-tolerance-reindexing-need-and-1?utm_content=buffere458b&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)<br>
