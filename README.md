@@ -2,7 +2,7 @@
 
 Dashboard
 ---------------
-Apache Kudu - http://kudu.apache.org<br>
+[Apache Kudu](http://kudu.apache.org)<br>
 Apache Zeppelin - https://zeppelin.apache.org/<br>
 Superset - https://github.com/airbnb/superset<br>
 
