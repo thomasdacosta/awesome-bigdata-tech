@@ -26,6 +26,11 @@ Redis - http://redis.io/<br>
 HBase - http://hbase.apache.org/<br>
 TitanDB - http://titan.thinkaurelius.com/<br>
 
+Arquitetura
+---------------
+Kappa Architecture - http://milinda.pathirage.org/kappa-architecture.com/<br>
+Lambda Architecture - http://lambda-architecture.net/<br>
+
 # 2 - Performance
 
 Brendan D. Gregg - http://www.brendangregg.com/index.html
