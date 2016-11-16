@@ -18,6 +18,14 @@ Ingestão de Dados
 ---------------
 Spring XD - http://projects.spring.io/spring-xd/
 
+Banco de Dados
+---------------
+ArangoDB - https://www.arangodb.com/<br>
+Neo4J - https://neo4j.com/<br>
+Redis - http://redis.io/<br>
+HBase - http://hbase.apache.org/<br>
+TitanDB - http://titan.thinkaurelius.com/<br>
+
 # 2 - Performance
 
 Brendan D. Gregg - http://www.brendangregg.com/index.html
