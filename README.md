@@ -49,3 +49,4 @@ Arquitetura
 
 * [Guias de referência Big Data](http://www.devmedia.com.br/guias/big-data/50)
 * [Guias de referência Big Data com Java](http://www.devmedia.com.br/guias/big-data-com-java/17)
+* [Guias de referência NoSQL](http://www.devmedia.com.br/guias/nosql/38)
