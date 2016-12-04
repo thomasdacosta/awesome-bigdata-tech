@@ -44,3 +44,8 @@ Arquitetura
 * [Elasticsearch Fault Tolerance: Reindexing Need and Strategies - Part I](https://dzone.com/articles/elasticsearch-fault-tolerance-reindexing-need-and)<br>
 * [Elasticsearch Fault Tolerance: Reindexing Need and Strategies - Part II](https://dzone.com/articles/elasticsearch-fault-tolerance-reindexing-need-and-1?utm_content=buffere458b&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)<br>
 * [Apache Ambari: Past, Present, Future](http://www.slideshare.net/hortonworks/apache-ambari-past-present-future)<br>
+
+# 4 - Guias
+
+* [Guias de referência Big Data](http://www.devmedia.com.br/guias/big-data/50)
+* [Guias de referência Big Data com Java](http://www.devmedia.com.br/guias/big-data-com-java/17)
