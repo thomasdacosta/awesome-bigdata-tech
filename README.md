@@ -9,6 +9,8 @@ Dashboard
 Storage
 ---------------
 * [Apache ORC](https://orc.apache.org)<br>
+* [Apache Pig](https://pig.apache.org)<br>
+* [Apache Hive](https://hive.apache.org) <br>
 
 Servidor de Fila
 ---------------
