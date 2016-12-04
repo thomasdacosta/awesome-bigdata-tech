@@ -20,6 +20,10 @@ Ingestão de Dados
 ---------------
 * [Spring XD](http://projects.spring.io/spring-xd/)<br>
 
+Scheduler
+---------------
+* [Apache Oozie](http://oozie.apache.org)<br>
+
 Banco de Dados
 ---------------
 
