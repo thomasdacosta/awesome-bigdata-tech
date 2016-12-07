@@ -20,6 +20,11 @@ Ingestão de Dados
 ---------------
 * [Spring XD](http://projects.spring.io/spring-xd/)<br>
 
+Dados
+---------------
+* [Apache Nifi](https://nifi.apache.org/)<br>
+* [Apache Atlas](http://atlas.incubator.apache.org/)<br>
+
 Scheduler
 ---------------
 * [Apache Oozie](http://oozie.apache.org)<br>
@@ -32,6 +37,10 @@ Banco de Dados
 * [Redis](http://redis.io/)<br>
 * [HBase](http://hbase.apache.org/)<br>
 * [TitanDB](http://titan.thinkaurelius.com/)<br>
+
+Map Reduce
+---------------
+* [Apache Crunch](https://crunch.apache.org/)<br>
 
 Arquitetura
 ---------------
