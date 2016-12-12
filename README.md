@@ -59,6 +59,12 @@ Arquitetura
 * [Elasticsearch Fault Tolerance: Reindexing Need and Strategies - Part I](https://dzone.com/articles/elasticsearch-fault-tolerance-reindexing-need-and)<br>
 * [Elasticsearch Fault Tolerance: Reindexing Need and Strategies - Part II](https://dzone.com/articles/elasticsearch-fault-tolerance-reindexing-need-and-1?utm_content=buffere458b&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)<br>
 * [Apache Ambari: Past, Present, Future](http://www.slideshare.net/hortonworks/apache-ambari-past-present-future)<br>
+* [Quick Recipe for #Kafka Streams in #Clojure](https://dataissexy.wordpress.com/2016/12/06/quick-recipe-for-kafka-streams-in-clojure/)<br>
+* [Configuring memory for MapReduce running on YARN](http://grepalex.com/2016/12/07/mapreduce-yarn-memory/)<br>
+* [Achieving a 300% speedup in ETL with Apache Spark](http://blog.cloudera.com/blog/2016/12/achieving-a-300-speedup-in-etl-with-spark/)<br>
+* [Data Wrangling at Slack](https://slack.engineering/data-wrangling-at-slack-f2e0ff633b69#.g8zy3qp4u)<br>
+* [Integrating Apache Airflow and Databricks: Building ETL pipelines with Apache Spark](https://databricks.com/blog/2016/12/08/integrating-apache-airflow-databricks-building-etl-pipelines-apache-spark.html)<br>
+
 
 # 4 - Guias
 
