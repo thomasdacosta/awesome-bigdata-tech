@@ -64,7 +64,7 @@ Arquitetura
 * [Achieving a 300% speedup in ETL with Apache Spark](http://blog.cloudera.com/blog/2016/12/achieving-a-300-speedup-in-etl-with-spark/)<br>
 * [Data Wrangling at Slack](https://slack.engineering/data-wrangling-at-slack-f2e0ff633b69#.g8zy3qp4u)<br>
 * [Integrating Apache Airflow and Databricks: Building ETL pipelines with Apache Spark](https://databricks.com/blog/2016/12/08/integrating-apache-airflow-databricks-building-etl-pipelines-apache-spark.html)<br>
-
+* [Integração Contínua com Travis CI — Parte 01](https://tableless.com.br/integracao-continua-com-travis-ci%E2%80%8A-%E2%80%8Aparte-01/)<br>
 
 # 4 - Guias
 
